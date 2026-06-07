@@ -23,5 +23,10 @@ module.exports = {
     // and page chrome (scroll-progress bar, ToC) bleeds through a zoomed image.
     "medium-zoom-overlay",
     "medium-zoom-image--opened",
+    // Profile image classes used in about layout — not in static HTML at purge time
+    "rounded-circle",
+    "img-fluid",
+    "z-depth-1",
+    /^z-depth-/,
   ],
 };
