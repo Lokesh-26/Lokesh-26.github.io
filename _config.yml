@@ -2,19 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: My Website # the website title (if blank, full name will be used instead)
+title: Lokeshwaran Manohar # the website title (if blank, full name will be used instead)
 first_name: Lokeshwaran
 middle_name:
 last_name: Manohar
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Robotics researcher specializing in event-based perception, 6D pose estimation, and real-time vision for autonomous manipulation and logistics systems.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: robotics, event-based vision, 6D pose estimation, robotic manipulation, perception, TU Dortmund
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Lokeshwaran Manohar # blog_name will be displayed in your blog page
+blog_description: Notes on robotics, perception, and research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -341,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Manohar, Lokeshwaran]
+  first_name: [Lokeshwaran, L., M.]
 
   style: apa
   locale: en

@@ -1,34 +1,45 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Co-author disambiguation for jekyll-scholar
+# Keys are lowercase last names; list all known first-name variants
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"gouda":
+  - firstname: ["Anas", "A."]
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"awasthi":
+  - firstname: ["Shrutarv", "S."]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"blesing":
+  - firstname: ["Christian", "C."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"hoffmann":
+  - firstname: ["Frank", "F."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"kirchheim":
+  - firstname: ["Alice", "A."]
+    url: https://www.tu-dortmund.de
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"roidl":
+  - firstname: ["Moritz", "M."]
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"srinivas":
+  - firstname: ["Taarun", "T."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"madhusudhan":
+  - firstname: ["Adithya Krishna Karigiri", "Adithya", "A. K. K.", "A."]
+
+"ramanathan":
+  - firstname: ["Kuppan Chetty", "Kuppan", "K. C.", "K."]
+
+"nielsen":
+  - firstname: ["Izabela", "I."]
+
+"seenu":
+  - firstname: ["N", "N."]
+
+"stephen":
+  - firstname: ["Nikhit Mathew", "Nikhit", "N. M.", "N."]
+
+"janardhanan":
+  - firstname: ["Mukund", "M."]
+
+"joshuva":
+  - firstname: ["A."]
