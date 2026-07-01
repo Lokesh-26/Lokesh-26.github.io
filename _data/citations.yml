@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-01'
 papers:
   llyA69UAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: "DESIGN AND DEVELOPMENT OF VALKYRIE\u2013AN AUTONOMOUS QUADRUPED ROBOT"
     year: Unknown Year
   llyA69UAAAAJ:9yKSN-GCB0IC:
-    citations: 22
+    citations: 23
     title: "Valkyrie\u2014Design and development of gaits for quadruped robot using particle swarm optimization"
     year: '2021'
   llyA69UAAAAJ:IjCSPb-OGe4C:
     citations: 0
-    title: Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTEvent
+    title: Benchmarking Recurrent Event-Based Object Detection for Industrial Multi-Class Recognition on MTevent
     year: '2026'
   llyA69UAAAAJ:UeHWp8X0CEIC:
     citations: 0
@@ -30,6 +30,6 @@ papers:
     title: "Raphael\u2014The Smart helmet"
     year: '2020'
   llyA69UAAAAJ:u5HHmVD_uO8C:
-    citations: 5
+    citations: 6
     title: A comprehensive review on rail wheel crack inspection system
     year: '2020'
